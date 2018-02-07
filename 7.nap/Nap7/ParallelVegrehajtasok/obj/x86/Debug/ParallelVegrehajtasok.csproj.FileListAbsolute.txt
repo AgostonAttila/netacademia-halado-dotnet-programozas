@@ -1,0 +1,5 @@
+C:\Temp\Nap7\ParallelVegrehajtasok\bin\Debug\ParallelVegrehajtasok.exe
+C:\Temp\Nap7\ParallelVegrehajtasok\bin\Debug\ParallelVegrehajtasok.pdb
+C:\Temp\Nap7\ParallelVegrehajtasok\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap7\ParallelVegrehajtasok\obj\x86\Debug\ParallelVegrehajtasok.exe
+C:\Temp\Nap7\ParallelVegrehajtasok\obj\x86\Debug\ParallelVegrehajtasok.pdb

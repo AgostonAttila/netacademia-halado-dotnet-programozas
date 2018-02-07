@@ -1,0 +1,5 @@
+C:\Temp\Nap4\PascalTomb\bin\Debug\PascalTomb.exe
+C:\Temp\Nap4\PascalTomb\bin\Debug\PascalTomb.pdb
+C:\Temp\Nap4\PascalTomb\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap4\PascalTomb\obj\x86\Debug\PascalTomb.exe
+C:\Temp\Nap4\PascalTomb\obj\x86\Debug\PascalTomb.pdb

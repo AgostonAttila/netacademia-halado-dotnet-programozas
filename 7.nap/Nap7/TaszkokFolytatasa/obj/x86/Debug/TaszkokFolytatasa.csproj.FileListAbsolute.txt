@@ -1,0 +1,5 @@
+C:\Temp\Nap7\TaszkokFolytatasa\bin\Debug\TaszkokFolytatasa.exe
+C:\Temp\Nap7\TaszkokFolytatasa\bin\Debug\TaszkokFolytatasa.pdb
+C:\Temp\Nap7\TaszkokFolytatasa\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap7\TaszkokFolytatasa\obj\x86\Debug\TaszkokFolytatasa.exe
+C:\Temp\Nap7\TaszkokFolytatasa\obj\x86\Debug\TaszkokFolytatasa.pdb

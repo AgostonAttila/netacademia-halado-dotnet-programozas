@@ -1,0 +1,5 @@
+C:\Temp\Nap1\Nap1\DynamicTipus\bin\Debug\DynamicTipus.exe
+C:\Temp\Nap1\Nap1\DynamicTipus\bin\Debug\DynamicTipus.pdb
+C:\Temp\Nap1\Nap1\DynamicTipus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap1\Nap1\DynamicTipus\obj\x86\Debug\DynamicTipus.exe
+C:\Temp\Nap1\Nap1\DynamicTipus\obj\x86\Debug\DynamicTipus.pdb

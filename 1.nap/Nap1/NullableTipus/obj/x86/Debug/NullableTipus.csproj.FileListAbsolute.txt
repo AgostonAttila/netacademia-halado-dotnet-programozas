@@ -1,0 +1,5 @@
+C:\Temp\Nap1\Nap1\NullableTipus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap1\Nap1\NullableTipus\bin\Debug\NullableTipus.exe
+C:\Temp\Nap1\Nap1\NullableTipus\bin\Debug\NullableTipus.pdb
+C:\Temp\Nap1\Nap1\NullableTipus\obj\x86\Debug\NullableTipus.exe
+C:\Temp\Nap1\Nap1\NullableTipus\obj\x86\Debug\NullableTipus.pdb

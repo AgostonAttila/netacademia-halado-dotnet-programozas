@@ -1,0 +1,7 @@
+C:\Temp\Nap5\SzamologepHost\bin\Debug\SzamologepHost.exe
+C:\Temp\Nap5\SzamologepHost\bin\Debug\SzamologepHost.pdb
+C:\Temp\Nap5\SzamologepHost\bin\Debug\SzamologepInterface.dll
+C:\Temp\Nap5\SzamologepHost\bin\Debug\SzamologepInterface.pdb
+C:\Temp\Nap5\SzamologepHost\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap5\SzamologepHost\obj\x86\Debug\SzamologepHost.exe
+C:\Temp\Nap5\SzamologepHost\obj\x86\Debug\SzamologepHost.pdb

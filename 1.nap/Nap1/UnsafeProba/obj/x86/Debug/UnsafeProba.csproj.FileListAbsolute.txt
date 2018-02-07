@@ -1,0 +1,7 @@
+C:\Temp\Nap1\Nap1\UnsafeProba\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap1\Nap1\UnsafeProba\bin\Debug\UnsafeProba.exe
+C:\Temp\Nap1\Nap1\UnsafeProba\bin\Debug\UnsafeProba.pdb
+C:\Temp\Nap1\Nap1\UnsafeProba\obj\x86\Debug\UnsafeProba.exe
+C:\Temp\Nap1\Nap1\UnsafeProba\obj\x86\Debug\UnsafeProba.pdb
+Y:\Programming\Workspace\C#\IT Factory\Haladó .Net programozás\1.nap\Nap1\UnsafeProba\obj\x86\Debug\UnsafeProba.exe
+Y:\Programming\Workspace\C#\IT Factory\Haladó .Net programozás\1.nap\Nap1\UnsafeProba\obj\x86\Debug\UnsafeProba.pdb

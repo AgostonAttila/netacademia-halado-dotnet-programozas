@@ -1,0 +1,5 @@
+C:\Temp\Nap4\GenerikusFinomsagok\bin\Debug\GenerikusFinomsagok.exe
+C:\Temp\Nap4\GenerikusFinomsagok\bin\Debug\GenerikusFinomsagok.pdb
+C:\Temp\Nap4\GenerikusFinomsagok\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap4\GenerikusFinomsagok\obj\x86\Debug\GenerikusFinomsagok.exe
+C:\Temp\Nap4\GenerikusFinomsagok\obj\x86\Debug\GenerikusFinomsagok.pdb

@@ -1,0 +1,5 @@
+C:\Temp\Nap4\EsemenyKezeles\bin\Debug\EsemenyKezeles.exe
+C:\Temp\Nap4\EsemenyKezeles\bin\Debug\EsemenyKezeles.pdb
+C:\Temp\Nap4\EsemenyKezeles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap4\EsemenyKezeles\obj\x86\Debug\EsemenyKezeles.exe
+C:\Temp\Nap4\EsemenyKezeles\obj\x86\Debug\EsemenyKezeles.pdb

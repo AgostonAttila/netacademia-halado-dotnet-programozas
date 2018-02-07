@@ -1,0 +1,5 @@
+C:\Temp\Nap1\Nap1\Casting\bin\Debug\Casting.exe
+C:\Temp\Nap1\Nap1\Casting\bin\Debug\Casting.pdb
+C:\Temp\Nap1\Nap1\Casting\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap1\Nap1\Casting\obj\x86\Debug\Casting.exe
+C:\Temp\Nap1\Nap1\Casting\obj\x86\Debug\Casting.pdb

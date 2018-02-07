@@ -1,0 +1,5 @@
+C:\Temp\Nap7\NamedMutex\bin\Debug\NamedMutex.exe
+C:\Temp\Nap7\NamedMutex\bin\Debug\NamedMutex.pdb
+C:\Temp\Nap7\NamedMutex\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap7\NamedMutex\obj\x86\Debug\NamedMutex.exe
+C:\Temp\Nap7\NamedMutex\obj\x86\Debug\NamedMutex.pdb

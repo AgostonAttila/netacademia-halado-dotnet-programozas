@@ -1,0 +1,5 @@
+C:\Temp\Nap6\DisposePattern\bin\Debug\DisposePattern.exe
+C:\Temp\Nap6\DisposePattern\bin\Debug\DisposePattern.pdb
+C:\Temp\Nap6\DisposePattern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap6\DisposePattern\obj\x86\Debug\DisposePattern.exe
+C:\Temp\Nap6\DisposePattern\obj\x86\Debug\DisposePattern.pdb

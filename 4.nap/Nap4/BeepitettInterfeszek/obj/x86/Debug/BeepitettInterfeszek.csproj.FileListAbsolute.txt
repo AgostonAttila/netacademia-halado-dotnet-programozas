@@ -1,0 +1,7 @@
+C:\Temp\Nap4\BeepitettInterfeszek\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap4\BeepitettInterfeszek\bin\Debug\BeepitettInterfeszek.exe
+C:\Temp\Nap4\BeepitettInterfeszek\bin\Debug\BeepitettInterfeszek.pdb
+C:\Temp\Nap4\BeepitettInterfeszek\obj\x86\Debug\BeepitettInterfeszek.exe
+C:\Temp\Nap4\BeepitettInterfeszek\obj\x86\Debug\BeepitettInterfeszek.pdb
+Y:\Programming\Workspace\C#\IT Factory\Haladó .Net programozás\4.nap\Nap4\BeepitettInterfeszek\obj\x86\Debug\BeepitettInterfeszek.exe
+Y:\Programming\Workspace\C#\IT Factory\Haladó .Net programozás\4.nap\Nap4\BeepitettInterfeszek\obj\x86\Debug\BeepitettInterfeszek.pdb

@@ -1,0 +1,5 @@
+C:\Temp\Nap7\ThreadPool_VS_Async\bin\Debug\ThreadPool_VS_Async.exe
+C:\Temp\Nap7\ThreadPool_VS_Async\bin\Debug\ThreadPool_VS_Async.pdb
+C:\Temp\Nap7\ThreadPool_VS_Async\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap7\ThreadPool_VS_Async\obj\x86\Debug\ThreadPool_VS_Async.exe
+C:\Temp\Nap7\ThreadPool_VS_Async\obj\x86\Debug\ThreadPool_VS_Async.pdb

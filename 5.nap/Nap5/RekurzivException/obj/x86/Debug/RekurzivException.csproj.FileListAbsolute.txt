@@ -1,0 +1,5 @@
+C:\Temp\Nap5\RekurzivException\bin\Debug\RekurzivException.exe
+C:\Temp\Nap5\RekurzivException\bin\Debug\RekurzivException.pdb
+C:\Temp\Nap5\RekurzivException\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap5\RekurzivException\obj\x86\Debug\RekurzivException.exe
+C:\Temp\Nap5\RekurzivException\obj\x86\Debug\RekurzivException.pdb

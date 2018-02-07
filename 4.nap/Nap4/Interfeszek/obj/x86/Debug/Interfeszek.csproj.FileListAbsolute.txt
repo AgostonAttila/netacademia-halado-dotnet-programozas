@@ -1,0 +1,5 @@
+C:\Temp\Nap4\Interfeszek\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap4\Interfeszek\bin\Debug\Interfeszek.exe
+C:\Temp\Nap4\Interfeszek\bin\Debug\Interfeszek.pdb
+C:\Temp\Nap4\Interfeszek\obj\x86\Debug\Interfeszek.exe
+C:\Temp\Nap4\Interfeszek\obj\x86\Debug\Interfeszek.pdb

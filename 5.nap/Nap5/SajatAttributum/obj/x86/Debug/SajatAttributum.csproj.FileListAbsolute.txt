@@ -1,0 +1,5 @@
+C:\Temp\Nap5\SajatAttributum\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap5\SajatAttributum\bin\Debug\SajatAttributum.exe
+C:\Temp\Nap5\SajatAttributum\bin\Debug\SajatAttributum.pdb
+C:\Temp\Nap5\SajatAttributum\obj\x86\Debug\SajatAttributum.exe
+C:\Temp\Nap5\SajatAttributum\obj\x86\Debug\SajatAttributum.pdb

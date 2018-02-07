@@ -1,0 +1,7 @@
+C:\Temp\Nap5\MuveletekJakab\bin\Debug\MuveletekJakab.dll
+C:\Temp\Nap5\MuveletekJakab\bin\Debug\MuveletekJakab.pdb
+C:\Temp\Nap5\MuveletekJakab\bin\Debug\SzamologepInterface.dll
+C:\Temp\Nap5\MuveletekJakab\bin\Debug\SzamologepInterface.pdb
+C:\Temp\Nap5\MuveletekJakab\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap5\MuveletekJakab\obj\Debug\MuveletekJakab.dll
+C:\Temp\Nap5\MuveletekJakab\obj\Debug\MuveletekJakab.pdb

@@ -1,0 +1,5 @@
+C:\Temp\Nap3\Properties\bin\Debug\Properties.exe
+C:\Temp\Nap3\Properties\bin\Debug\Properties.pdb
+C:\Temp\Nap3\Properties\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap3\Properties\obj\x86\Debug\Properties.exe
+C:\Temp\Nap3\Properties\obj\x86\Debug\Properties.pdb

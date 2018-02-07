@@ -1,0 +1,5 @@
+C:\Temp\Nap2\Nap2\VirtualFromCtor\bin\Debug\VirtualFromCtor.exe
+C:\Temp\Nap2\Nap2\VirtualFromCtor\bin\Debug\VirtualFromCtor.pdb
+C:\Temp\Nap2\Nap2\VirtualFromCtor\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap2\Nap2\VirtualFromCtor\obj\x86\Debug\VirtualFromCtor.exe
+C:\Temp\Nap2\Nap2\VirtualFromCtor\obj\x86\Debug\VirtualFromCtor.pdb

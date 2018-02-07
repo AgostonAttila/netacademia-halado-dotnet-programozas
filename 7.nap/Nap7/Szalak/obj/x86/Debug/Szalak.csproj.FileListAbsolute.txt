@@ -1,0 +1,5 @@
+C:\Temp\Nap7\Szalak\bin\Debug\Szalak.exe
+C:\Temp\Nap7\Szalak\bin\Debug\Szalak.pdb
+C:\Temp\Nap7\Szalak\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap7\Szalak\obj\x86\Debug\Szalak.exe
+C:\Temp\Nap7\Szalak\obj\x86\Debug\Szalak.pdb

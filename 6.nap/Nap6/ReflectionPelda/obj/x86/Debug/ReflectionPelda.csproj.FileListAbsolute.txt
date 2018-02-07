@@ -1,0 +1,5 @@
+C:\Temp\Nap6\ReflectionPelda\bin\Debug\ReflectionPelda.exe
+C:\Temp\Nap6\ReflectionPelda\bin\Debug\ReflectionPelda.pdb
+C:\Temp\Nap6\ReflectionPelda\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap6\ReflectionPelda\obj\x86\Debug\ReflectionPelda.exe
+C:\Temp\Nap6\ReflectionPelda\obj\x86\Debug\ReflectionPelda.pdb

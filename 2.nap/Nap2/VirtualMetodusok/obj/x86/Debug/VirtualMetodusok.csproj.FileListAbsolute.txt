@@ -1,0 +1,5 @@
+C:\Temp\Nap2\Nap2\VirtualMetodusok\bin\Debug\VirtualMetodusok.exe
+C:\Temp\Nap2\Nap2\VirtualMetodusok\bin\Debug\VirtualMetodusok.pdb
+C:\Temp\Nap2\Nap2\VirtualMetodusok\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap2\Nap2\VirtualMetodusok\obj\x86\Debug\VirtualMetodusok.exe
+C:\Temp\Nap2\Nap2\VirtualMetodusok\obj\x86\Debug\VirtualMetodusok.pdb

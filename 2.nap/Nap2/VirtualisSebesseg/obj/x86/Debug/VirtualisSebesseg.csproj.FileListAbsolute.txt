@@ -1,0 +1,5 @@
+C:\Temp\Nap2\Nap2\VirtualisSebesseg\bin\Debug\VirtualisSebesseg.exe
+C:\Temp\Nap2\Nap2\VirtualisSebesseg\bin\Debug\VirtualisSebesseg.pdb
+C:\Temp\Nap2\Nap2\VirtualisSebesseg\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap2\Nap2\VirtualisSebesseg\obj\x86\Debug\VirtualisSebesseg.exe
+C:\Temp\Nap2\Nap2\VirtualisSebesseg\obj\x86\Debug\VirtualisSebesseg.pdb

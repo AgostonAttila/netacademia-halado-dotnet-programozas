@@ -1,0 +1,7 @@
+C:\Temp\Nap5\MuveletekGeza\bin\Debug\MuveletekGeza.dll
+C:\Temp\Nap5\MuveletekGeza\bin\Debug\MuveletekGeza.pdb
+C:\Temp\Nap5\MuveletekGeza\bin\Debug\SzamologepInterface.dll
+C:\Temp\Nap5\MuveletekGeza\bin\Debug\SzamologepInterface.pdb
+C:\Temp\Nap5\MuveletekGeza\obj\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap5\MuveletekGeza\obj\Debug\MuveletekGeza.dll
+C:\Temp\Nap5\MuveletekGeza\obj\Debug\MuveletekGeza.pdb

@@ -1,0 +1,5 @@
+C:\Temp\Nap1\Nap1\BoxingUnboxing\bin\Debug\BoxingUnboxing.exe
+C:\Temp\Nap1\Nap1\BoxingUnboxing\bin\Debug\BoxingUnboxing.pdb
+C:\Temp\Nap1\Nap1\BoxingUnboxing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap1\Nap1\BoxingUnboxing\obj\x86\Debug\BoxingUnboxing.exe
+C:\Temp\Nap1\Nap1\BoxingUnboxing\obj\x86\Debug\BoxingUnboxing.pdb

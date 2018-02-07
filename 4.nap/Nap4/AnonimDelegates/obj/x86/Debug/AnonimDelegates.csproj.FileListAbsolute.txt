@@ -1,0 +1,5 @@
+C:\Temp\Nap4\AnonimDelegates\bin\Debug\AnonimDelegates.exe
+C:\Temp\Nap4\AnonimDelegates\bin\Debug\AnonimDelegates.pdb
+C:\Temp\Nap4\AnonimDelegates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap4\AnonimDelegates\obj\x86\Debug\AnonimDelegates.exe
+C:\Temp\Nap4\AnonimDelegates\obj\x86\Debug\AnonimDelegates.pdb

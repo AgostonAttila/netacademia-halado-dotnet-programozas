@@ -1,0 +1,5 @@
+C:\Temp\Nap1\Nap1\Sztringek\bin\Debug\Sztringek.exe
+C:\Temp\Nap1\Nap1\Sztringek\bin\Debug\Sztringek.pdb
+C:\Temp\Nap1\Nap1\Sztringek\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap1\Nap1\Sztringek\obj\x86\Debug\Sztringek.exe
+C:\Temp\Nap1\Nap1\Sztringek\obj\x86\Debug\Sztringek.pdb

@@ -1,0 +1,5 @@
+C:\Temp\Nap6\CheckedUnchecked\bin\Debug\CheckedUnchecked.exe
+C:\Temp\Nap6\CheckedUnchecked\bin\Debug\CheckedUnchecked.pdb
+C:\Temp\Nap6\CheckedUnchecked\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap6\CheckedUnchecked\obj\x86\Debug\CheckedUnchecked.exe
+C:\Temp\Nap6\CheckedUnchecked\obj\x86\Debug\CheckedUnchecked.pdb

@@ -1,0 +1,5 @@
+C:\Temp\Nap6\WeakReferences\bin\Debug\WeakReferences.exe
+C:\Temp\Nap6\WeakReferences\bin\Debug\WeakReferences.pdb
+C:\Temp\Nap6\WeakReferences\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap6\WeakReferences\obj\x86\Debug\WeakReferences.exe
+C:\Temp\Nap6\WeakReferences\obj\x86\Debug\WeakReferences.pdb

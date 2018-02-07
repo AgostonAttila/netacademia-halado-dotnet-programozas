@@ -1,0 +1,5 @@
+C:\Temp\Nap7\GyerekTaszkok\bin\Debug\GyerekTaszkok.exe
+C:\Temp\Nap7\GyerekTaszkok\bin\Debug\GyerekTaszkok.pdb
+C:\Temp\Nap7\GyerekTaszkok\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap7\GyerekTaszkok\obj\x86\Debug\GyerekTaszkok.exe
+C:\Temp\Nap7\GyerekTaszkok\obj\x86\Debug\GyerekTaszkok.pdb

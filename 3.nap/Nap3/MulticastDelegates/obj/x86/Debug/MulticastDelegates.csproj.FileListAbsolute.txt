@@ -1,0 +1,7 @@
+C:\Temp\Nap3\MulticastDelegates\bin\Debug\MulticastDelegates.exe
+C:\Temp\Nap3\MulticastDelegates\bin\Debug\MulticastDelegates.pdb
+C:\Temp\Nap3\MulticastDelegates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap3\MulticastDelegates\obj\x86\Debug\MulticastDelegates.exe
+C:\Temp\Nap3\MulticastDelegates\obj\x86\Debug\MulticastDelegates.pdb
+Y:\Programming\Workspace\C#\IT Factory\Haladó .Net programozás\3.nap\Nap3\MulticastDelegates\obj\x86\Debug\MulticastDelegates.exe
+Y:\Programming\Workspace\C#\IT Factory\Haladó .Net programozás\3.nap\Nap3\MulticastDelegates\obj\x86\Debug\MulticastDelegates.pdb

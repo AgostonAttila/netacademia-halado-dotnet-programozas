@@ -1,0 +1,5 @@
+C:\Temp\Nap2\Nap2\EqualsGetHashCode\bin\Debug\EqualsGetHashCode.exe
+C:\Temp\Nap2\Nap2\EqualsGetHashCode\bin\Debug\EqualsGetHashCode.pdb
+C:\Temp\Nap2\Nap2\EqualsGetHashCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap2\Nap2\EqualsGetHashCode\obj\x86\Debug\EqualsGetHashCode.exe
+C:\Temp\Nap2\Nap2\EqualsGetHashCode\obj\x86\Debug\EqualsGetHashCode.pdb

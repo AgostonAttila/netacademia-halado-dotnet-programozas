@@ -1,0 +1,5 @@
+C:\Temp\Nap6\MemoriaManage\bin\Debug\MemoriaManage.exe
+C:\Temp\Nap6\MemoriaManage\bin\Debug\MemoriaManage.pdb
+C:\Temp\Nap6\MemoriaManage\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap6\MemoriaManage\obj\x86\Debug\MemoriaManage.exe
+C:\Temp\Nap6\MemoriaManage\obj\x86\Debug\MemoriaManage.pdb

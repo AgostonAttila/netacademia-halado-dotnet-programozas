@@ -1,0 +1,5 @@
+C:\Temp\Nap7\ProcCache\bin\Debug\ProcCache.exe
+C:\Temp\Nap7\ProcCache\bin\Debug\ProcCache.pdb
+C:\Temp\Nap7\ProcCache\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap7\ProcCache\obj\x86\Debug\ProcCache.exe
+C:\Temp\Nap7\ProcCache\obj\x86\Debug\ProcCache.pdb

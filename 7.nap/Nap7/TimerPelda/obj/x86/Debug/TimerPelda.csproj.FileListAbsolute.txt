@@ -1,0 +1,5 @@
+C:\Temp\Nap7\TimerPelda\bin\Debug\TimerPelda.exe
+C:\Temp\Nap7\TimerPelda\bin\Debug\TimerPelda.pdb
+C:\Temp\Nap7\TimerPelda\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap7\TimerPelda\obj\x86\Debug\TimerPelda.exe
+C:\Temp\Nap7\TimerPelda\obj\x86\Debug\TimerPelda.pdb

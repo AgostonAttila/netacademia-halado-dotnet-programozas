@@ -1,0 +1,5 @@
+C:\Temp\Nap7\ExecutionContextDemo\bin\Debug\ExecutionContextDemo.exe
+C:\Temp\Nap7\ExecutionContextDemo\bin\Debug\ExecutionContextDemo.pdb
+C:\Temp\Nap7\ExecutionContextDemo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap7\ExecutionContextDemo\obj\x86\Debug\ExecutionContextDemo.exe
+C:\Temp\Nap7\ExecutionContextDemo\obj\x86\Debug\ExecutionContextDemo.pdb

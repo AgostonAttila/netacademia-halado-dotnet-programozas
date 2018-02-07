@@ -1,0 +1,5 @@
+C:\Temp\Nap6\CodeDomPelda\bin\Debug\CodeDomPelda.exe
+C:\Temp\Nap6\CodeDomPelda\bin\Debug\CodeDomPelda.pdb
+C:\Temp\Nap6\CodeDomPelda\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap6\CodeDomPelda\obj\x86\Debug\CodeDomPelda.exe
+C:\Temp\Nap6\CodeDomPelda\obj\x86\Debug\CodeDomPelda.pdb

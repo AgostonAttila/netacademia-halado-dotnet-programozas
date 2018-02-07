@@ -1,0 +1,5 @@
+C:\Temp\Nap3\Delegates\bin\Debug\Delegates.exe
+C:\Temp\Nap3\Delegates\bin\Debug\Delegates.pdb
+C:\Temp\Nap3\Delegates\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap3\Delegates\obj\x86\Debug\Delegates.exe
+C:\Temp\Nap3\Delegates\obj\x86\Debug\Delegates.pdb

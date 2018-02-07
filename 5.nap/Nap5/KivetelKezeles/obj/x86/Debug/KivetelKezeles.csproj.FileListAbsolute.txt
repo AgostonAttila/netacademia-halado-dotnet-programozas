@@ -1,0 +1,7 @@
+C:\Temp\Nap5\KivetelKezeles\bin\Debug\KivetelKezeles.exe
+C:\Temp\Nap5\KivetelKezeles\bin\Debug\KivetelKezeles.pdb
+C:\Temp\Nap5\KivetelKezeles\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap5\KivetelKezeles\obj\x86\Debug\KivetelKezeles.exe
+C:\Temp\Nap5\KivetelKezeles\obj\x86\Debug\KivetelKezeles.pdb
+Y:\Programming\Workspace\C#\IT Factory\Haladó .Net programozás\5.nap\Nap5\KivetelKezeles\obj\x86\Debug\KivetelKezeles.exe
+Y:\Programming\Workspace\C#\IT Factory\Haladó .Net programozás\5.nap\Nap5\KivetelKezeles\obj\x86\Debug\KivetelKezeles.pdb

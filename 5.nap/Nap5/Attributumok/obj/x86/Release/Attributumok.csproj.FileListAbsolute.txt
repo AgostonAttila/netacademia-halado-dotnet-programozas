@@ -1,0 +1,5 @@
+C:\Temp\Nap5\Attributumok\bin\Release\Attributumok.exe
+C:\Temp\Nap5\Attributumok\bin\Release\Attributumok.pdb
+C:\Temp\Nap5\Attributumok\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Temp\Nap5\Attributumok\obj\x86\Release\Attributumok.exe
+C:\Temp\Nap5\Attributumok\obj\x86\Release\Attributumok.pdb

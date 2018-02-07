@@ -1,0 +1,5 @@
+C:\Temp\Nap5\DinamikusMetodus\bin\Debug\DinamikusMetodus.exe
+C:\Temp\Nap5\DinamikusMetodus\bin\Debug\DinamikusMetodus.pdb
+C:\Temp\Nap5\DinamikusMetodus\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap5\DinamikusMetodus\obj\x86\Debug\DinamikusMetodus.exe
+C:\Temp\Nap5\DinamikusMetodus\obj\x86\Debug\DinamikusMetodus.pdb

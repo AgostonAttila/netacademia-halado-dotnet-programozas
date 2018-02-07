@@ -1,0 +1,7 @@
+C:\Temp\Nap3\TypeAndMembers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap3\TypeAndMembers\bin\Debug\TypeAndMembers.exe
+C:\Temp\Nap3\TypeAndMembers\bin\Debug\TypeAndMembers.pdb
+C:\Temp\Nap3\TypeAndMembers\obj\x86\Debug\TypeAndMembers.exe
+C:\Temp\Nap3\TypeAndMembers\obj\x86\Debug\TypeAndMembers.pdb
+C:\Temp\Nap3\TypeAndMembers\bin\Debug\Metodusok.exe
+C:\Temp\Nap3\TypeAndMembers\bin\Debug\Metodusok.pdb

@@ -1,0 +1,6 @@
+C:\Temp\Nap2\Nap2\Parameterek\bin\Debug\Parameterek.exe
+C:\Temp\Nap2\Nap2\Parameterek\bin\Debug\Parameterek.pdb
+C:\Temp\Nap2\Nap2\Parameterek\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap2\Nap2\Parameterek\obj\x86\Debug\Parameterek.exe
+C:\Temp\Nap2\Nap2\Parameterek\obj\x86\Debug\Parameterek.pdb
+Y:\Programming\Workspace\C#\IT Factory\Haladó .Net programozás\2.nap\Nap2\Parameterek\obj\x86\Debug\Parameterek.exe

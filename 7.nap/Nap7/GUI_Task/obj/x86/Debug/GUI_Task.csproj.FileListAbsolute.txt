@@ -1,0 +1,9 @@
+C:\Temp\Nap7\GUI_Task\bin\Debug\GUI_Task.exe
+C:\Temp\Nap7\GUI_Task\bin\Debug\GUI_Task.pdb
+C:\Temp\Nap7\GUI_Task\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap7\GUI_Task\obj\x86\Debug\GUI_Task.Form1.resources
+C:\Temp\Nap7\GUI_Task\obj\x86\Debug\GUI_Task.Properties.Resources.resources
+C:\Temp\Nap7\GUI_Task\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Temp\Nap7\GUI_Task\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Temp\Nap7\GUI_Task\obj\x86\Debug\GUI_Task.exe
+C:\Temp\Nap7\GUI_Task\obj\x86\Debug\GUI_Task.pdb

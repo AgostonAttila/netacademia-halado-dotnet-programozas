@@ -1,0 +1,5 @@
+C:\Temp\Nap7\Taszkok\bin\Debug\Taszkok.exe
+C:\Temp\Nap7\Taszkok\bin\Debug\Taszkok.pdb
+C:\Temp\Nap7\Taszkok\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap7\Taszkok\obj\x86\Debug\Taszkok.exe
+C:\Temp\Nap7\Taszkok\obj\x86\Debug\Taszkok.pdb

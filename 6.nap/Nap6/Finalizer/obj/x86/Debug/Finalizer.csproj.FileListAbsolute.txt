@@ -1,0 +1,5 @@
+C:\Temp\Nap6\Finalizer\bin\Debug\Finalizer.exe
+C:\Temp\Nap6\Finalizer\bin\Debug\Finalizer.pdb
+C:\Temp\Nap6\Finalizer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap6\Finalizer\obj\x86\Debug\Finalizer.exe
+C:\Temp\Nap6\Finalizer\obj\x86\Debug\Finalizer.pdb

@@ -1,0 +1,5 @@
+C:\Temp\Nap7\ThreadPoolPelda\bin\Debug\ThreadPoolPelda.exe
+C:\Temp\Nap7\ThreadPoolPelda\bin\Debug\ThreadPoolPelda.pdb
+C:\Temp\Nap7\ThreadPoolPelda\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap7\ThreadPoolPelda\obj\x86\Debug\ThreadPoolPelda.exe
+C:\Temp\Nap7\ThreadPoolPelda\obj\x86\Debug\ThreadPoolPelda.pdb

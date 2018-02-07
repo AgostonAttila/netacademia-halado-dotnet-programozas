@@ -1,0 +1,5 @@
+C:\Temp\Nap6\ReflectionSpeed\bin\Debug\ReflectionSpeed.exe
+C:\Temp\Nap6\ReflectionSpeed\bin\Debug\ReflectionSpeed.pdb
+C:\Temp\Nap6\ReflectionSpeed\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap6\ReflectionSpeed\obj\x86\Debug\ReflectionSpeed.exe
+C:\Temp\Nap6\ReflectionSpeed\obj\x86\Debug\ReflectionSpeed.pdb

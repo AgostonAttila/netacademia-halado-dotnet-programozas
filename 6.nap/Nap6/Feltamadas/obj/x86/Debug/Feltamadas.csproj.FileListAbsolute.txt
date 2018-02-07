@@ -1,0 +1,5 @@
+C:\Temp\Nap6\Feltamadas\bin\Debug\Feltamadas.exe
+C:\Temp\Nap6\Feltamadas\bin\Debug\Feltamadas.pdb
+C:\Temp\Nap6\Feltamadas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap6\Feltamadas\obj\x86\Debug\Feltamadas.exe
+C:\Temp\Nap6\Feltamadas\obj\x86\Debug\Feltamadas.pdb

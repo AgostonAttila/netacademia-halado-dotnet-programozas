@@ -1,0 +1,5 @@
+C:\Temp\Nap2\Nap2\ExtensionMethods\bin\Debug\ExtensionMethods.exe
+C:\Temp\Nap2\Nap2\ExtensionMethods\bin\Debug\ExtensionMethods.pdb
+C:\Temp\Nap2\Nap2\ExtensionMethods\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap2\Nap2\ExtensionMethods\obj\x86\Debug\ExtensionMethods.exe
+C:\Temp\Nap2\Nap2\ExtensionMethods\obj\x86\Debug\ExtensionMethods.pdb

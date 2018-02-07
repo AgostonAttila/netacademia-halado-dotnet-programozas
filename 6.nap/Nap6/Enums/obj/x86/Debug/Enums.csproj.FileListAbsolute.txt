@@ -1,0 +1,5 @@
+C:\Temp\Nap6\Enums\bin\Debug\Enums.exe
+C:\Temp\Nap6\Enums\bin\Debug\Enums.pdb
+C:\Temp\Nap6\Enums\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap6\Enums\obj\x86\Debug\Enums.exe
+C:\Temp\Nap6\Enums\obj\x86\Debug\Enums.pdb

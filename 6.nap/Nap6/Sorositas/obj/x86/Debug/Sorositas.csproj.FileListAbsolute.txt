@@ -1,0 +1,7 @@
+C:\Temp\Nap6\Sorositas\bin\Debug\Sorositas.exe
+C:\Temp\Nap6\Sorositas\bin\Debug\Sorositas.pdb
+C:\Temp\Nap6\Sorositas\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap6\Sorositas\obj\x86\Debug\Sorositas.exe
+C:\Temp\Nap6\Sorositas\obj\x86\Debug\Sorositas.pdb
+Y:\Programming\Workspace\C#\IT Factory\Haladó .Net programozás\6.nap\Nap6\Sorositas\obj\x86\Debug\Sorositas.exe
+Y:\Programming\Workspace\C#\IT Factory\Haladó .Net programozás\6.nap\Nap6\Sorositas\obj\x86\Debug\Sorositas.pdb

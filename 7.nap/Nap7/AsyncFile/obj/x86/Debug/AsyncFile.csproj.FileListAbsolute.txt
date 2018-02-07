@@ -1,0 +1,5 @@
+C:\Temp\Nap7\AsyncFile\bin\Debug\AsyncFile.exe
+C:\Temp\Nap7\AsyncFile\bin\Debug\AsyncFile.pdb
+C:\Temp\Nap7\AsyncFile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap7\AsyncFile\obj\x86\Debug\AsyncFile.exe
+C:\Temp\Nap7\AsyncFile\obj\x86\Debug\AsyncFile.pdb

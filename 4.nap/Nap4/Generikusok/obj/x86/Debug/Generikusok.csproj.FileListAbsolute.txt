@@ -1,0 +1,5 @@
+C:\Temp\Nap4\Generikusok\bin\Debug\Generikusok.exe
+C:\Temp\Nap4\Generikusok\bin\Debug\Generikusok.pdb
+C:\Temp\Nap4\Generikusok\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap4\Generikusok\obj\x86\Debug\Generikusok.exe
+C:\Temp\Nap4\Generikusok\obj\x86\Debug\Generikusok.pdb

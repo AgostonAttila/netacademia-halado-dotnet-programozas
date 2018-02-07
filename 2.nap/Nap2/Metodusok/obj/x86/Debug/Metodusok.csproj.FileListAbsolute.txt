@@ -1,0 +1,5 @@
+C:\Temp\Nap2\Nap2\Metodusok\bin\Debug\Metodusok.exe
+C:\Temp\Nap2\Nap2\Metodusok\bin\Debug\Metodusok.pdb
+C:\Temp\Nap2\Nap2\Metodusok\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap2\Nap2\Metodusok\obj\x86\Debug\Metodusok.exe
+C:\Temp\Nap2\Nap2\Metodusok\obj\x86\Debug\Metodusok.pdb

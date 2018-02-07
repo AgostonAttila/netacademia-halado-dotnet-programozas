@@ -1,0 +1,5 @@
+C:\Temp\Nap1\Nap1\Tipusok\bin\Debug\Tipusok.exe
+C:\Temp\Nap1\Nap1\Tipusok\bin\Debug\Tipusok.pdb
+C:\Temp\Nap1\Nap1\Tipusok\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap1\Nap1\Tipusok\obj\x86\Debug\Tipusok.exe
+C:\Temp\Nap1\Nap1\Tipusok\obj\x86\Debug\Tipusok.pdb

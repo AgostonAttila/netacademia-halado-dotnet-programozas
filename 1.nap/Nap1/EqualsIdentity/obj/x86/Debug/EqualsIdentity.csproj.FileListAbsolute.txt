@@ -1,0 +1,5 @@
+C:\Temp\Nap1\Nap1\EqualsIdentity\bin\Debug\EqualsIdentity.exe
+C:\Temp\Nap1\Nap1\EqualsIdentity\bin\Debug\EqualsIdentity.pdb
+C:\Temp\Nap1\Nap1\EqualsIdentity\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Temp\Nap1\Nap1\EqualsIdentity\obj\x86\Debug\EqualsIdentity.exe
+C:\Temp\Nap1\Nap1\EqualsIdentity\obj\x86\Debug\EqualsIdentity.pdb
