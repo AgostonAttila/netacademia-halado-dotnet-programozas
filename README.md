@@ -2,7 +2,7 @@
 
 https://netacademia.hu/Tanfolyam/halado-net-programozas
 
-## Típusok áttekintése
+##Típusok áttekintése
 CLR futtatókörnyezet áttekintése: fordítás, futtatás, IL nyelv, unsafe code.
 System.Object. Beépített típusok. Casting: is és as operátor mûködése.
 Primitív, referencia és értéktípusok. Immutable típus fogalma (string).
