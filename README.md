@@ -39,7 +39,7 @@ Kovariancia és kontravariancia fogalma. Generikus ellenõrzések és megszorítások.
 Interfészek létrehozása és használata. Explicit interface metódus implementáció.
 Néhány fontosabb beépített interface: IComparable, IDisposable, IEnumerable, IList, ICollection stb...
 
-#Attribútumok, kivételkezelés
+## Attribútumok, kivételkezelés
 Attribútumok szerepe és használata.
 Saját egyedi attribútum létrehozása.
 Elkészített attribútum használata.
@@ -50,7 +50,7 @@ Saját kivételosztály készítése.
 Nemkezelt kivételek. Kivitelek debuggolása.
 Kivételkezelés során felmerülõ teljesítményproblémák.
 
-##Memória menedzsment, DLL betöltõdés, reflection, serialization
+## Memória menedzsment, DLL betöltõdés, reflection, serialization
 Garbage Collector mûködési mechanizmusa.  
 Destructor fogalma. Finalize metódus. Dispose pattern helyes megvalósítása. A using utasítás használata.
 Objektumok életciklusának monitorozása és kontrollálása.
